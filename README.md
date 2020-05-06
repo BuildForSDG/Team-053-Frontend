@@ -1,3 +1,5 @@
+# FoodDistro
+
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
@@ -39,6 +41,8 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 - Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
 - Install additional dependencies: `yarn add <dependency-name> [-D]`
+- Compiles and hot-reloads for development: `yarn serve`
+- Build for production: `yarn build`
 - Run tests: `yarn test`
 - Run tests with test coverage info: `yarn test:cover`
 - Check the codebase for proper syntax and formatting compliance: `yarn lint`
